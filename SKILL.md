@@ -1,5 +1,5 @@
 ---
-name: wiki-ops
+name: wiki-ingest
 version: "3.2.0"
 description: "Obsidian wiki five-in-one knowledge operations: Op1 Ingest (batch papers/articles/books), Op2 Query→Wiki (Q&A traceability), Op3 Lint (full-library consistency), Op4 Save (persist Q&A), Op5 Autoresearch (auto-expand gaps). Trigger keywords: ingest/batch/process papers (Op1), search/wiki/look up (Op2), lint/scan/health check (Op3), save/bookmark (Op4), autor/expand/deep-dive (Op5)."
 updated: 2026-04-27
